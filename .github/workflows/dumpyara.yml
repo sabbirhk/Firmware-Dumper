@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       link:
-        description: 'Firmware Link'
+        description: 'https://drive.google.com/u/0/uc?id=1oIs5qsBVhtcsAMcVaVaWTrAdEn8RvWlS&export=download'
         required: true
 
 env:
